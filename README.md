@@ -7,7 +7,7 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 
 While increasing the duration of the contact attempt in the campaign can stand to benefit a higher subscription rate, it will only do so slightly. Therefore, a revision model based on logistical regression is carried out to solve the overarching dilemma of targeted marketing to a select demographic, with 87% accuracy.
 
-Optimization terminated successfully.
+    Optimization terminated successfully.
              Current function value: 0.479469
              Iterations 7
                                Results: Logit
@@ -43,4 +43,5 @@ Optimization terminated successfully.
     housing_yes         -0.7991   0.0313 -25.5400 0.0000 -0.8604 -0.7377
     loan_no              2.4685   0.0286  86.3215 0.0000  2.4124  2.5245
     ====================================================================
+
     
