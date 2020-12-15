@@ -46,4 +46,4 @@ While increasing the duration of the contact attempt in the campaign can stand t
 
     A recorded video of our presentation can be viewed here:
 
-    https://youtube.com/embed/<-id0kLvWdJY>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-id0kLvWdJY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
