@@ -44,4 +44,6 @@ While increasing the duration of the contact attempt in the campaign can stand t
     loan_no              2.4685   0.0286  86.3215 0.0000  2.4124  2.5245
     ====================================================================
 
-    
+    A recorded video of our presentation can be viewed here:
+
+    https://youtube.com/embed/<-id0kLvWdJY>
